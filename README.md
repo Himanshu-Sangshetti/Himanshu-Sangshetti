@@ -1,4 +1,4 @@
-[![MaterHead](https://miro.medium.com/v2/resize:fit:679/1*1pA96Ot8WpyVi_fowrYCCQ.gif)]
+
 <h1 align="center">Hello 👋, I'm Himanshu</h1>
 <h3 align="center">Cloud and DevOps enthusiast</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif">
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himanshu sangshetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu sangshetti" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/himanshu-sangshetti-43b42122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu sangshetti" height="30" width="40" /></a>
 <a href="https://medium.com/@himanshusangshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himanshusangshetty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hxlfed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hxlfed" height="30" width="40" /></a>
 </p>
