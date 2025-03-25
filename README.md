@@ -20,7 +20,6 @@
 <p align="left">
 <a href="www.linkedin.com/in/himanshu-sangshetti-43b42122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu sangshetti" height="30" width="40" /></a>
 <a href="https://medium.com/@himanshusangshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himanshusangshetty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hxlfed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hxlfed" height="30" width="40" /></a>
 </p>
 
 
