@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AWS, GCP, Azure, OCI**
 
-- 📫 How to reach me **himanshusanghsetty@gmail.com**
+- 📫 How to reach me **himanshusangshetty@gmail.com**
 
 - 📄 Resume [https://drive.google.com/drive/folders/1t5dJXFLY8UYuzIIF8I5HiNjzEJ9kc17p?usp=drive_link](https://drive.google.com/drive/folders/1t5dJXFLY8UYuzIIF8I5HiNjzEJ9kc17p?usp=drive_link)
 
