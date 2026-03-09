@@ -10,9 +10,8 @@
 
 - 💬 Ask me about **AWS, GCP, Azure, OCI**
 
-- 📫 How to reach me **himanshusangshetty@gmail.com**
+- 📫 How to reach me **himanshusangshetti@gmail.com**
 
-- 📄 Resume [https://drive.google.com/drive/folders/1t5dJXFLY8UYuzIIF8I5HiNjzEJ9kc17p?usp=drive_link](https://drive.google.com/drive/folders/1t5dJXFLY8UYuzIIF8I5HiNjzEJ9kc17p?usp=drive_link)
 
 <img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/6oFTUDQ-1.gif">
 
