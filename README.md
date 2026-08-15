@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Himanshu</h1>
+<h1 align="center">Hello, I'm Hims</h1>
 <h3 align="center">AI & Cloud - 24/7</h3>
 <img align="right" alt="Coding" width="155" src="https://media.tenor.com/TS7aSPWwXJ4AAAAj/capoo-waiting.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-sangshetti&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-sangshetti" /> </p>
